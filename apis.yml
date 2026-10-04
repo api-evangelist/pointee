@@ -52,7 +52,7 @@ tags:
 - RPA
 - Agentic Automation
 - AI Agents
-- Workflow-Automation
+- Workflow Automation
 - Process Discovery
 tags_raw:
 - Company
@@ -63,6 +63,7 @@ tags_raw:
 - AI Agents
 - Workflow Automation
 - Process Discovery
+- Workflow-Automation
 apis: []
 common:
 - type: DomainSecurity
